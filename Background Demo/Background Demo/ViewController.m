@@ -2,7 +2,7 @@
 //  ViewController.m
 //  Geo
 //
-//  Created by Canopus 10 on 4/23/13.
+//  Created by Iftekhar 10 on 4/23/13.
 //
 //
 #define CURRENT_DATE_TIME_STRING [NSDateFormatter localizedStringFromDate:[NSDate date] dateStyle:NSDateFormatterMediumStyle timeStyle:NSDateFormatterMediumStyle]

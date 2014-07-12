@@ -2,7 +2,7 @@
 //  ViewController.h
 //  Geo
 //
-//  Created by Canopus 10 on 4/23/13.
+//  Created by Iftekhar 10 on 4/23/13.
 //
 //
 
